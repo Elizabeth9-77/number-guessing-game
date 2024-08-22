@@ -29,9 +29,9 @@ user stories
 ![CSS Validation resutls](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image%20copy.png)
 
 ### Lighthouse
-![Lighthouse Desktop](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse desktop.png)
+![Lighthouse Desktop](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse%20desktop.png)
 
-![Lighthouse Mobile](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse mobile.png)
+![Lighthouse Mobile](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse%20mobile.png)
 ## Unfixed bugs
 -Not well styled for small screens
 
