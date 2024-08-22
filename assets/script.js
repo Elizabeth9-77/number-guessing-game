@@ -46,7 +46,7 @@ btnCheckEl.addEventListener("click", () => {
                     displayMessage("Congratultations, You guessed Correct!")
 
 
-                }
+                }git
 
 
                 } else {
