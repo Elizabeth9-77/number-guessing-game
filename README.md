@@ -31,7 +31,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 
-The live link can be found here - https://https://github.com/Elizabeth9-77/number-guessing-game/
+The live link can be found here - https://elizabeth9-77.github.io/number-guessing-game/
 
 
 ## Credits
