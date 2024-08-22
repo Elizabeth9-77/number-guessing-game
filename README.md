@@ -20,6 +20,14 @@ user stories
 
 ## Testing
 
+### HTML validation
+
+https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image.png
+
+### CSS Validation
+
+https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image%20copy.png
+
 ## Unfixed bugs
 -Not well styled for small screens
 -Unable to use the enter key to submit guess
