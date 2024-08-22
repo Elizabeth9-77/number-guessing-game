@@ -22,11 +22,11 @@ user stories
 
 ### HTML validation
 
-https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image.png
+![HTML validation results](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image.png)
 
 ### CSS Validation
 
-https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image%20copy.png
+![CSS Validation resutls](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image%20copy.png)
 
 ## Unfixed bugs
 -Not well styled for small screens
