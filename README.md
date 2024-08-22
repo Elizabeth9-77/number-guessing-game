@@ -34,6 +34,7 @@ user stories
 ![Lighthouse Mobile](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse mobile.png)
 ## Unfixed bugs
 -Not well styled for small screens
+
 -Unable to use the enter key to submit guess
 
 ## deployment
