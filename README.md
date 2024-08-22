@@ -11,6 +11,7 @@ site goals
 design choices
 
 wireframes
+
 ![Wireframe 1](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/wireframe.png)
 
 
