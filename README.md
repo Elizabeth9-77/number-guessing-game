@@ -28,6 +28,10 @@ user stories
 
 ![CSS Validation resutls](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/image%20copy.png)
 
+### Lighthouse
+![Lighthouse Desktop](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse desktop.png)
+
+![Lighthouse Mobile](https://github.com/Elizabeth9-77/number-guessing-game/blob/main/readme/lighthouse mobile.png)
 ## Unfixed bugs
 -Not well styled for small screens
 -Unable to use the enter key to submit guess
