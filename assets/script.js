@@ -9,7 +9,7 @@ const scoreEl = document.querySelector(".score");
 
 // generate a random number between 1 and 25
 let secretNumber = Math.floor(Math.random() * 25 + 1);
-let score = 20;
+let score = 25;
 let highScore = 0;
 
 // event to check the hide number
@@ -27,19 +27,49 @@ btnCheckEl.addEventListener("click", () => {
                         score--;
                         scoreEl.textContent = score;
 
+                        messageEl.textContent = guess > secretNumber ? "Too High" : "Too Low"
+                        scoreEl.textContent = score
+
                     } else {
-                        messageEl.textContent = "You Have Lost the Game"
+                        displayMessage("You Have Lost the Game")
                         gameAreaEl.style.backgroundColor = "#fff";
                         scoreEl.textContent = 0
                     }
 
 
-                } else { //success
+                } else { 
+                    //success
+                    hideNumEl.textContent = secretNumber
+                    hideNumEl.style.width = "50%"
+                    hideNumEl.style.transition = "all 0.5s ease-in"
+                    gameAreaEl.style.backgroundColor = "#fcca03";
+                    displayMessage("Congratultations, You guessed Correct!")
+
+
                 }
 
 
                 } else {
-                    messageEl.textContent = "Please Enter a Number"
+                    displayMessage("Please Enter a Number")
                 }
+            });
+
+            //display message
+            const displayMessage = function (message) {
+                messageEl.textContent = message
             }
-        )
+
+
+            //reset the game
+            btnPlayEl.addEventListener('click',()=>{
+                score = 25;
+                secretNumber = Math.floor(Math.random()*25+1);
+                scoreEl.textContent = score;
+                hideNumEl.textContent = "?";
+                hideNumEl.style.width = "25%";
+                hideNumEl.style.transition = "all 0.5s ease-in";
+                inputNumberEl.value = "";
+                gameAreaEl.style.backgroundColor = "#ddd";
+                displayMessage("Start Guessing...........")
+
+            })
