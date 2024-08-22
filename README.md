@@ -2,13 +2,14 @@
 This is a game where the computer generates a random number between 1 and 25 and the player has to guess the number. The game will have an area that will keep track of the number of guesses and an area to give them a clue if the number is higher or lower than their guess.
 
 ## Features
+This game features
+-A text input area. For the player to enter their guess
+-A guess button. for players to submit their guess
+-A play again button. for players to restart the game
 
 
 
 ## UX
-site goals
-
-design choices
 
 wireframes
 
@@ -20,6 +21,8 @@ user stories
 ## Testing
 
 ## Unfixed bugs
+-Not well styled for small screens
+-Unable to use the enter key to submit guess
 
 ## deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -34,7 +37,14 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://elizabeth9-77.github.io/number-guessing-game/
 
 
+## Future Features
+-To be able to submit guess using the enter key
+-To improve styling for small screens
+
+
 ## Credits
+-I used googlefonts for the styling
+-I used Online|Ttuts tutorials youtube video to aid in my coding
 
 
 
