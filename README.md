@@ -30,6 +30,7 @@ user stories
 
 ## Unfixed bugs
 -Not well styled for small screens
+
 -Unable to use the enter key to submit guess
 
 ## deployment
